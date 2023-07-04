@@ -2,36 +2,40 @@
 # Exploratory Analysis of Netflix Userbase Data
 
 By leveraging the power of data analysis and engineering tools such as Matplotlib, Pandas, MisingNo, and Seaborn, an in-depth 
-and visual exploration is conducted in order to discover key insights about age demographics, age, and gender distribution, subscription types, and so forth
-This notebook might serve as a hands-on experience  for beginners in the field of data science.
+and visual exploration is conducted in order to discover key insights about age demographics, age, and gender distribution, 
+subscription types, and so forth. This notebook might serve as a hands-on experience  for beginners in the field of data science.
 
-![alt text](https://github.com/shahriar-rahman/Prediction-of-Compressive-Strength-using-Multi-Layered-Perceptron/blob/main/img/git_img%20(1).jpg)
+![alt text](https://github.com/shahriar-rahman/Exploratory-Analysis-of-Netflix-Userbase/blob/main/img/netflix%20(8).jpg)
 
 ### Introduction:
-Several types of research have indicated that concrete strength development is mostly determined by the water-cement ratio 
-(w/c ratio) with the amalgamation of other ingredients. Despite displaying a pattern of practical acceptability of this theory, 
-there have been some deviations from the norm. Codes consist of various empirical equations that can be applied to achieve 
-a proper prediction of compressive strengths, which are usually based on experiments without using supplementary 
-cementitious materials such as fly ash, blast furnace slag, and so forth. Therefore, it is crucial to investigate the validity of 
-the relationships with the aforementioned materials in order to get better interpretability in circumventing this particular problem. 
+The acquired dataset provides a sample Netflix user base, showcasing a plethora of monthly revenue, user subscriptions, 
+activity, and account details. Each sample represents a unique user, identified by their identification as a user ID, and includes
+information such as the subscription type which is categorized as Basic, Standard, or Premium. The revenue generated monthly 
+from their subscription is also included along with the date of joining Netflix labeled as “Join Date”, the date of their last payment
+as “Last Payment Date”, and the country in which they resided.
+
+Additional columns have been included to provide insights into user behavior and preferences, which include the type of devices, 
+case in point, Smart TV, Mobile phone, Desktop, and Tablet. Moreover, the total watch time (in minutes), and account status 
+including whether the account is active or not is also provided. It can be used to analyze and model user trends, preferences, 
+and revenue generation within a hypothetical Netflix userbase.
+
 
 ### Objective:
 The primary incentive of this research is to:
-* Initiate an exploratory analysis of data to find the patterns of the feature that makes up the data.
-* Conduct a comparative analysis of feature transformation algorithms to find the most suitable for utilization.
-* Experiment with different Hyper-parameters to obtain a well-organized tuning for the MLP model.
-* Locate a viable approach to solve this problem to develop an efficient model capable of correctly predicting 
-the strength of the concrete, given certain parameter exists.
+* Process dataset by analyzing its integrity, missing values, duplicated values, and so forth.
+* Perform various clean-ups, if required, and improve accessibility for more convenient exploratory analysis.
+* Conduct exploratory analysis using a myriad of graphing tools to reach a conclusion.
+* To reach a proper decision on which model to apply to the processed dataset in a future project to achieve the ideal optimization 
+tuning and hopefully, a better outcome in the model's generalization.
 
-![alt text](https://github.com/shahriar-rahman/Prediction-of-Compressive-Strength-using-Multi-Layered-Perceptron/blob/main/img/git_img%20(2).jpg)
+
+![alt text](https://github.com/shahriar-rahman/Exploratory-Analysis-of-Netflix-Userbase/blob/main/img/netflix%20(3).jpg)
 
 ### Approach:
-This research is classified into 5 steps:
-1.	Identifying the problem and its data sources.
-2.	Constructing raw data into clean processed data and analyzing it using both Jupyter Notebooks and IDE.
-3.	Scaling the data with 3 different transformation algorithms for comparisons and us the best-suited one for this problem.
-4.	Experiment and Diagnose in order to achieve the best Hyper-parameters for building an efficient model.
-5.	Result Analysis for both training and test data.
+This research is classified into 2 steps:
+1.	Data Wrangling: Where the dataset is extracted, tested, cleaned, processed, and stored in memory.
+2.	Feature Analysis: Where the processed data is then explored thoroughly to acquire a viable insight.
+
 
 Project Organization:
 ------------
@@ -62,45 +66,16 @@ Project Organization:
 
 --------
 
-### Study Flowchart:
-![alt text](https://github.com/shahriar-rahman/Prediction-of-Compressive-Strength-using-Multi-Layered-Perceptron/blob/main/img/flow_chart.JPG)
-
-### Results:
-| Data Type | Mean Squared Error | R-Squared Error |
-|----------- | --------------------- | ------------------ |
-| Training | 0.077 | 0.86 |
-| Test     | 0.077 | 0.85 |
-
-* Training Loss Curve:
-![alt text](https://github.com/shahriar-rahman/Prediction-of-Compressive-Strength-using-Multi-Layered-Perceptron/blob/main/figures/ide_graphs/training_loss_curve.png)
-
-* Training set Ground truth vs Estimated values:
-![alt text](https://github.com/shahriar-rahman/Prediction-of-Compressive-Strength-using-Multi-Layered-Perceptron/blob/main/figures/ide_graphs/training_fit_data.png)
-
-* Training Error Density Plot:
-![alt text](https://github.com/shahriar-rahman/Prediction-of-Compressive-Strength-using-Multi-Layered-Perceptron/blob/main/figures/ide_graphs/training_error_distribution.png)
-
-* Test Loss Curve:
-![alt text](https://github.com/shahriar-rahman/Prediction-of-Compressive-Strength-using-Multi-Layered-Perceptron/blob/main/figures/ide_graphs/test_loss_curve.png)
-
-* Test set Ground truth vs Estimated values:
-![alt text](https://github.com/shahriar-rahman/Prediction-of-Compressive-Strength-using-Multi-Layered-Perceptron/blob/main/figures/ide_graphs/test_fit_data.png)
-
-* Test Error Density Plot:
-![alt text](https://github.com/shahriar-rahman/Prediction-of-Compressive-Strength-using-Multi-Layered-Perceptron/blob/main/figures/ide_graphs/test_error_distribution.png)
-
-
 ### Packages and Modules used:
-* os
-* sys
-* math
-* pickle
-* random
+* Jupyter
+
 * pandas
-* sklearn
-* seaborn
+
+* missingNo
+
 * matplotlib
-* missingno
+
+* seaborn
 
 ===========================================================================
 
