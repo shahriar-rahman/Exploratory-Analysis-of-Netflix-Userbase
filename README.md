@@ -5,9 +5,8 @@ By leveraging the power of data analysis and engineering tools such as Matplotli
 and visual exploration is conducted in order to discover key insights about age demographics, age, and gender distribution, 
 subscription types, and so forth. This notebook might serve as a hands-on experience  for beginners in the field of data science.
 
-![alt text](https://github.com/shahriar-rahman/Exploratory-Analysis-of-Netflix-Userbase/blob/main/img/netflix%20(8_mod).jpg)
 <div align="center">
-    <img width="65%" src="img/netflix (3).gif" alt="Netflix1.gif" >
+    <img width="100%" src="img/netflix (3).gif" alt="Netflix1.gif" >
 </div>
 
 ### Introduction:
