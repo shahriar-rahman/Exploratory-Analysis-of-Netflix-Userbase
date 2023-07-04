@@ -6,6 +6,9 @@ and visual exploration is conducted in order to discover key insights about age 
 subscription types, and so forth. This notebook might serve as a hands-on experience  for beginners in the field of data science.
 
 ![alt text](https://github.com/shahriar-rahman/Exploratory-Analysis-of-Netflix-Userbase/blob/main/img/netflix%20(8_mod).jpg)
+<div align="center">
+    <img width="65%" src="img/netflix (3).gif" alt="Netflix1.gif" >
+</div>
 
 ### Introduction:
 The acquired dataset provides a sample Netflix user base, showcasing a plethora of monthly revenue, user subscriptions, 
