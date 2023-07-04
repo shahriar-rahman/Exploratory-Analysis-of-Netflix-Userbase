@@ -1,5 +1,5 @@
 ===========================================================================
-# Exploratory Analysis of Netflix User Base Data
+# Exploratory Analysis of Netflix User base Data
 
 By leveraging the power of data analysis and engineering tools such as Matplotlib, Pandas, MisingNo, and Seaborn, an in-depth 
 and visual exploration is conducted in order to discover key insights about age demographics, age, and gender distribution, 
