@@ -4,7 +4,7 @@ setup(
     name='src',
     packages=find_packages(),
     version='0.1.0',
-    description='This is a simple data science template project folder.',
-    author='Shahriar',
-    license='',
+    description='Data wrangling and Feature analysis based on the Netflix userbase sample Dataset.',
+    author='Shahriar Rahman',
+    license='MIT License',
 )
