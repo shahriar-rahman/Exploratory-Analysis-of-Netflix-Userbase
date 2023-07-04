@@ -1,0 +1,10 @@
+# local package
+-e .
+
+# requirements
+Jupyter
+pandas
+missingNo
+matplotlib
+seaborn
+python-dotenv>=0.5.1
