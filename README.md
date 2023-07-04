@@ -29,7 +29,6 @@ The primary incentive of this research is to:
 tuning and hopefully, a better outcome in the model's generalization.
 
 
-![alt text](https://github.com/shahriar-rahman/Exploratory-Analysis-of-Netflix-Userbase/blob/main/img/netflix%20(3).jpg)
 
 ### Approach:
 This research is classified into 2 steps:
