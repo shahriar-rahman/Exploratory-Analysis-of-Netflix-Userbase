@@ -28,7 +28,7 @@ The primary incentive of this research is to:
 * To reach a proper decision on which model to apply to the processed dataset in a future project to achieve the ideal optimization 
 tuning and hopefully, a better outcome in the model's generalization.
 
-
+![alt text](https://github.com/shahriar-rahman/Exploratory-Analysis-of-Netflix-Userbase/blob/main/img/netflix%20(3_Cropped).jpg)
 
 ### Approach:
 This research is classified into 2 steps:
