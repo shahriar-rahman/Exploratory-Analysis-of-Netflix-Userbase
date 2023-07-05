@@ -1,9 +1,9 @@
 ===========================================================================
-# Exploratory Analysis of Netflix User base Data
+# Exploratory Analysis of Netflix User Base Data
 
 By leveraging the power of data analysis and engineering tools such as Matplotlib, Pandas, MisingNo, and Seaborn, an in-depth 
 and visual exploration is conducted in order to discover key insights about age demographics, age, and gender distribution, 
-subscription types, and so forth. This notebook might serve as a hands-on experience  for beginners in the field of data science.
+subscription types, and so forth. This notebook might serve as a hands-on experience for beginners in the field of data science.
 
 <div align="center">
     <img width="100%" src="img/netflix (3).gif" alt="Netflix1.gif" >
@@ -19,7 +19,7 @@ as “Last Payment Date”, and the country in which they resided.
 Additional columns have been included to provide insights into user behavior and preferences, which include the type of devices, 
 case in point, Smart TV, Mobile phone, Desktop, and Tablet. Moreover, the total watch time (in minutes), and account status 
 including whether the account is active or not is also provided. It can be used to analyze and model user trends, preferences, 
-and revenue generation within a hypothetical Netflix userbase.
+and revenue generation within a hypothetical Netflix user base.
 
 
 ### Objective:
