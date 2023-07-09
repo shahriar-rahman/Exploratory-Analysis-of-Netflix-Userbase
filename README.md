@@ -100,9 +100,9 @@ This research is classified into 2 steps:
 * matplotlib 3.7.0
 * seaborn 0.12.2
   
-<br/><br/>
+<br/>
 
-### Jupyter core packages
+### ◘ Jupyter core packages
 * IPython          : 8.10.0
 * ipykernel        : 6.19.2
 * ipywidgets       : 7.6.5
@@ -110,12 +110,6 @@ This research is classified into 2 steps:
 * jupyter_core     : 5.2.0
 * jupyter_server   : 1.23.4
 * jupyterlab       : 3.5.3
-* nbclient         : 0.5.13
-* nbconvert        : 6.5.4
-* nbformat         : 5.7.0
-* notebook         : 6.5.2
-* qtconsole        : 5.4.0
-* traitlets        : 5.7.1
 
 <br/><br/>
 
