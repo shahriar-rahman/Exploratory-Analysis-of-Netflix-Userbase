@@ -104,7 +104,6 @@ This research is classified into 2 steps:
     ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
     │                         generated with `pip freeze > requirements.txt`
     │
-    ├── setup.py           <- makes project pip installable, so that src can be imported
     │
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
