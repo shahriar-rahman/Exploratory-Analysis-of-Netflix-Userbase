@@ -46,6 +46,18 @@ This research is classified into 2 steps:
 
 <br/><br/>
 
+### ◘ Methodologies & Technologies applied
+* Diagnose and fix structural errors
+* Check and Clean data
+* Address duplicates & outliers
+* Logical feature amalgamation to construct a unique variable
+* Univariate inspection
+* Bivariate inspection
+* Feature correlations
+* Seaborn & Matplotplib visualizations
+
+<br/><br/>
+
 ### ◘ Project Organization
 ------------
     ├── LICENSE
@@ -77,7 +89,7 @@ This research is classified into 2 steps:
 
 <br/><br/>
 
-### ◘ Packages and Modules used
+### ◘  Modules required
 * Jupyter
 * pandas
 * missingNo
