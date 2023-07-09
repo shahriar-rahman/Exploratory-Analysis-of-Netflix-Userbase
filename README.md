@@ -142,19 +142,19 @@ import sys
 To *import* the dependencies, simply open the preferred IDE or Notebook: 
 1. For Pandas, run the following command:
 ```
-import pandas                                     
+import pandas as pd                                   
 ```
 2. To use missingno, run:
 ```
-import missingno                                         
+import missingno as msn                                      
 ```  
 3. Import matplotlib using:
 ```
-import matplotlib                                     
+import matplotlib.pyplot as plt                                     
 ```
 4. Seaborn can be accessed by:
 ```
-import seaborn as sb                                     
+import seaborn as sns                                      
 ```
 <br/><br/>
 
