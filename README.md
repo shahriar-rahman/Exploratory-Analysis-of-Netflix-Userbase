@@ -63,6 +63,25 @@ This research is classified into 2 steps:
 
 <br/><br/>
 
+### ◘  Required Modules
+* pandas 2.0.3
+* missingNo 0.5.2
+* matplotlib 3.7.0
+* seaborn 0.12.2
+  
+<br/>
+
+### ◘ Jupyter core packages
+* IPython          : 8.10.0
+* ipykernel        : 6.19.2
+* ipywidgets       : 7.6.5
+* jupyter_client   : 7.3.4
+* jupyter_core     : 5.2.0
+* jupyter_server   : 1.23.4
+* jupyterlab       : 3.5.3
+
+<br/><br/>
+
 ### ◘ Project Organization
 ------------
     ├── LICENSE
@@ -91,25 +110,6 @@ This research is classified into 2 steps:
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
 --------
-
-<br/><br/>
-
-### ◘  Required Modules
-* pandas 2.0.3
-* missingNo 0.5.2
-* matplotlib 3.7.0
-* seaborn 0.12.2
-  
-<br/>
-
-### ◘ Jupyter core packages
-* IPython          : 8.10.0
-* ipykernel        : 6.19.2
-* ipywidgets       : 7.6.5
-* jupyter_client   : 7.3.4
-* jupyter_core     : 5.2.0
-* jupyter_server   : 1.23.4
-* jupyterlab       : 3.5.3
 
 <br/><br/>
 
@@ -164,6 +164,11 @@ import seaborn as sb
 * https://pypi.org/project/matplotlib/
 * https://pypi.org/project/seaborn/
 * https://pypi.org/project/missingno/
+
+<br/><br/>
+
+### ◘ License
+This is free and unencumbered software released into the public domain. Anyone is free to copy, modify, publish, use, compile, sell, or distribute this software, either in source code form or as a compiled binary, for any purpose, commercial or non-commercial, and by any means.
 
 <br/><br/>
 ===========================================================================
