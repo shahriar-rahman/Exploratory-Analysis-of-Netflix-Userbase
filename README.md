@@ -94,7 +94,7 @@ This research is classified into 2 steps:
 
 <br/><br/>
 
-### ◘  Modules required
+### ◘  Required Modules
 * pandas 2.0.3
 * missingNo 0.5.2
 * matplotlib 3.7.0
@@ -138,6 +138,25 @@ import sys
 ```
 
 <br/><br/>
+
+### ◘ Import Packages
+To *import* the dependencies, simply open the preferred IDE or Notebook: 
+1. For Pandas, run the following command:
+```
+import pandas                                     
+```
+2. To use missingno, run:
+```
+import missingno                                         
+```  
+3. Import matplotlib using:
+```
+import matplotlib                                     
+```
+4. Seaborn can be accessed by:
+```
+import seaborn as sb                                     
+```
 
 ===========================================================================
 
