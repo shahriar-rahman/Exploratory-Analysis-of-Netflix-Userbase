@@ -46,7 +46,7 @@ This research is classified into 2 steps:
 
 <br/><br/>
 
-Project Organization:
+### ◘ Project Organization
 ------------
     ├── LICENSE
     │
@@ -77,7 +77,7 @@ Project Organization:
 
 <br/><br/>
 
-### Packages and Modules used:
+### ◘ Packages and Modules used
 * Jupyter
 * pandas
 * missingNo
