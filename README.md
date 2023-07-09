@@ -58,6 +58,11 @@ This research is classified into 2 steps:
 
 <br/><br/>
 
+### ◘ Project Flowchart
+![alt text](https://github.com/shahriar-rahman/Exploratory-Analysis-of-Netflix-Userbase/blob/main/img/edaFlowchart.png)
+
+<br/><br/>
+
 ### ◘ Project Organization
 ------------
     ├── LICENSE
@@ -89,14 +94,69 @@ This research is classified into 2 steps:
 
 <br/><br/>
 
-### ◘  Modules required
-* Jupyter
-* pandas
-* missingNo
-* matplotlib
-* seaborn
+### ◘  Required Modules
+* pandas 2.0.3
+* missingNo 0.5.2
+* matplotlib 3.7.0
+* seaborn 0.12.2
+  
+<br/>
+
+### ◘ Jupyter core packages
+* IPython          : 8.10.0
+* ipykernel        : 6.19.2
+* ipywidgets       : 7.6.5
+* jupyter_client   : 7.3.4
+* jupyter_core     : 5.2.0
+* jupyter_server   : 1.23.4
+* jupyterlab       : 3.5.3
 
 <br/><br/>
+
+### ◘ Installation (using pip)
+In Jupyter, the console commands can be executed by the *‘!’* sign before the command within the cell. For example, If the following code is written in the Jupyter cell, it will execute as a command in CMD.
+To intall any modules effectively, the sys python package is used and works as follows:
+```
+import sys
+!{sys.executable} -m pip install [package_name]                               
+```
+1. For Pandas, run:
+```
+!{sys.executable} -m pip install pandas                                                  
+```
+2. To install missingNo:
+```
+!{sys.executable} -m pip install missingno                                                  
+```
+3. Matplotlib can be installed by running the following command:
+```
+!{sys.executable} -m pip install matplotlib
+```
+4. Lastly, for seaborn:
+```
+!{sys.executable} -m pip install seaborn
+```
+
+<br/><br/>
+
+### ◘ Import Packages
+To *import* the dependencies, simply open the preferred IDE or Notebook: 
+1. For Pandas, run the following command:
+```
+import pandas                                     
+```
+2. To use missingno, run:
+```
+import missingno                                         
+```  
+3. Import matplotlib using:
+```
+import matplotlib                                     
+```
+4. Seaborn can be accessed by:
+```
+import seaborn as sb                                     
+```
 
 ===========================================================================
 
