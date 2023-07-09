@@ -58,7 +58,7 @@ This research is classified into 2 steps:
 
 <br/><br/>
 
-[alt text](https://github.com/shahriar-rahman/Exploratory-Analysis-of-Netflix-Userbase/blob/main/img/edaFlowchart.png)
+![alt text](https://github.com/shahriar-rahman/Exploratory-Analysis-of-Netflix-Userbase/blob/main/img/edaFlowchart.png)
 
 <br/><br/>
 
