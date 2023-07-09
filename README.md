@@ -97,7 +97,7 @@ This research is classified into 2 steps:
     │                         		
     │
     ├── figures               <- Generated graphics and figures to be used in reporting using Jupyter Notebooks
-	|
+    |
     │
     ├── img            <- Project related files
     │
