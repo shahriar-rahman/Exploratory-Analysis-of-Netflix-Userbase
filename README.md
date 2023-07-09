@@ -157,6 +157,14 @@ import matplotlib
 ```
 import seaborn as sb                                     
 ```
+<br/><br/>
 
+### Supplementary Resources
+* https://pypi.org/project/pandas/
+* https://pypi.org/project/matplotlib/
+* https://pypi.org/project/seaborn/
+* https://pypi.org/project/missingno/
+
+<br/><br/>
 ===========================================================================
 
