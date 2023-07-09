@@ -9,7 +9,9 @@ subscription types, and so forth. This notebook might serve as a hands-on experi
     <img width="100%" src="img/netflix (3).gif" alt="Netflix1.gif" >
 </div>
 
-### Introduction:
+<br/><br/>
+
+### ◘ Introduction
 The acquired dataset provides a sample Netflix user base, showcasing a plethora of monthly revenue, user subscriptions, 
 activity, and account details. Each sample represents a unique user, identified by their identification as a user ID, and includes
 information such as the subscription type which is categorized as Basic, Standard, or Premium. The revenue generated monthly 
@@ -21,8 +23,9 @@ case in point, Smart TV, Mobile phone, Desktop, and Tablet. Moreover, the total 
 including whether the account is active or not is also provided. It can be used to analyze and model user trends, preferences, 
 and revenue generation within a hypothetical Netflix user base.
 
+<br/><br/>
 
-### Objective:
+### ◘ Objective
 The primary incentive of this research is to:
 * Process dataset by analyzing its integrity, missing values, duplicated values, and so forth.
 * Perform various clean-ups, if required, and improve accessibility for more convenient exploratory analysis.
@@ -30,13 +33,18 @@ The primary incentive of this research is to:
 * To reach a proper decision on which model to apply to the processed dataset in a future project to achieve the ideal optimization 
 tuning and hopefully, a better outcome in the model's generalization.
 
+<br/><br/>
+
 ![alt text](https://github.com/shahriar-rahman/Exploratory-Analysis-of-Netflix-Userbase/blob/main/img/netflix%20(3_Cropped).jpg)
 
-### Approach:
+<br/><br/>
+
+### ◘ Approach
 This research is classified into 2 steps:
 1.	Data Wrangling: Where the dataset is extracted, tested, cleaned, processed, and stored in memory.
 2.	Feature Analysis: Where the processed data is then explored thoroughly to acquire a viable insight.
 
+<br/><br/>
 
 Project Organization:
 ------------
@@ -67,16 +75,16 @@ Project Organization:
 
 --------
 
+<br/><br/>
+
 ### Packages and Modules used:
 * Jupyter
-
 * pandas
-
 * missingNo
-
 * matplotlib
-
 * seaborn
+
+<br/><br/>
 
 ===========================================================================
 
