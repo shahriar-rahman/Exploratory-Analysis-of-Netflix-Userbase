@@ -158,7 +158,7 @@ import seaborn as sns
 ```
 <br/><br/>
 
-### Supplementary Resources
+### ◘ Supplementary Resources
 * https://pypi.org/project/pandas/
 * https://pypi.org/project/matplotlib/
 * https://pypi.org/project/seaborn/
