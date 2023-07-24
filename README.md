@@ -11,7 +11,7 @@ subscription types, and so forth. This notebook might serve as a hands-on experi
 
 <br/><br/>
 
-### ◘ Introduction 
+### ◘ Introduction  
 The acquired dataset provides a sample Netflix user base, showcasing a plethora of monthly revenue, user subscriptions, 
 activity, and account details. Each sample represents a unique user, identified by their identification as a user ID, and includes
 information such as the subscription type which is categorized as Basic, Standard, or Premium. The revenue generated monthly 
