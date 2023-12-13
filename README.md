@@ -16,7 +16,7 @@ The acquired dataset provides a sample Netflix user base, showcasing a plethora 
 activity, and account details. Each sample represents a unique user, identified by their identification as a user ID, and includes
 information such as the subscription type which is categorized as Basic, Standard, or Premium. The revenue generated monthly 
 from their subscription is also included along with the date of joining Netflix labeled as “Join Date”, the date of their last payment
-as “Last Payment Date”, and the country in which they resided.
+as “Last Payment Date”, and the country in which they resided. 
 
 Additional columns have been included to provide insights into user behavior and preferences, which include the type of devices, 
 case in point, Smart TV, Mobile phone, Desktop, and Tablet. Moreover, the total watch time (in minutes), and account status 
